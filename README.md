@@ -1,2 +1,2 @@
 # airbnb-clone
-this is a project that i followed along from youtube
+This is a project that I followed along from youtube. In this personal project I have worked with HTML,CSS,Javascript and React
